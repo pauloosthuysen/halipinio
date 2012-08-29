@@ -1,0 +1,5 @@
+C:\Users\oosthph1\documents\visual studio 2010\Projects\halipinio\halipinio\bin\halipinio.dll
+C:\Users\oosthph1\documents\visual studio 2010\Projects\halipinio\halipinio\bin\halipinio.pdb
+C:\Users\oosthph1\documents\visual studio 2010\Projects\halipinio\halipinio\obj\Release\ResolveAssemblyReference.cache
+C:\Users\oosthph1\documents\visual studio 2010\Projects\halipinio\halipinio\obj\Release\halipinio.dll
+C:\Users\oosthph1\documents\visual studio 2010\Projects\halipinio\halipinio\obj\Release\halipinio.pdb

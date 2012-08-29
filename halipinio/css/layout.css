@@ -1,0 +1,109 @@
+﻿body 
+{
+    background-color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+div#header
+{
+    background: #33CC33 url('../images/header_bg.png') repeat-x;
+    height: 100px;
+}
+
+div#logout
+{
+    display: block;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+
+div#logo
+{
+    display: block;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 10px;
+}
+
+div#logout a
+{
+    color: #000;
+    font-weight: bold;
+}
+
+div#nav
+{
+    height: 40px;
+    width: 100%;
+    -moz-box-shadow: 0px 2px 5px #666, 0px -2px 5px #666;
+    -webkit-box-shadow: 0px 2px 5px #666, 0px -2px 5px #666;
+    box-shadow: 0px 2px 5px #666, 0px -2px 5px #666;
+    position: absolute;
+    background: #eee;
+    background-image: url('../images/nav_bg.png');
+    background-repeat: repeat-x;
+}
+
+div#nav span
+{
+    
+}
+
+div#nav a
+{
+    background: url('../images/nav_btn_bg.png') #aaa repeat-x;
+    border: 1px solid #666;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    -moz-box-shadow: 1px 1px 5px #555;
+    -webkit-box-shadow: 1px 1px 5px #555;
+    box-shadow: 1px 1px 5px #555;
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    font-size: 22px;
+    display: inline-block;
+    margin: 2px 0 0 5px;
+    padding: 4px 5px 4px 5px;
+}
+
+div#nav a:hover
+{
+    background: #888;
+}
+
+div#content
+{
+    background-color: #fff;
+    min-height: 700px;
+    padding: 55px 10px 0 10px;
+}
+
+td.buttons
+{
+    text-align: right;
+    vertical-align: middle;
+}
+
+h1
+{
+    background-position: center;
+    padding: 5px 0 5px 10px;
+    margin: 0 0 0 0;
+    color: #333;
+    font-size: 22px;
+    background-color: #7CDE7C;
+    -moz-box-shadow: 2px 2px 5px #666;
+    -webkit-box-shadow: 2px 2px 5px #666;
+    box-shadow: 2px 2px 5px #666;
+    border: 1px solid #666;
+}
+
+p
+{
+    padding: 0 0 0 10px;
+    color: #333;
+}
